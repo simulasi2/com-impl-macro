@@ -1,3 +1,5 @@
+cargo-features = ["edition"]
+
 [package]
 name = "com-impl-macro"
 version = "0.1.0"
